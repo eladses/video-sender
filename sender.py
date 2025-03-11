@@ -13,6 +13,7 @@ OP_END=0x09
 
 OP_ERROR=0x00
 
+
 class CommunicationManager:
     def __init__(self):
         self.ip = HOST

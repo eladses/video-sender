@@ -15,7 +15,6 @@ def main():
     print(f"fps: {i/(time.time()-t_start)}")
 
 
-
 if __name__=="__main__":
     print("program start")
     main()
